@@ -57,6 +57,7 @@ export const SETTINGS_KEYS = {
   DOCUMENT_EDITING_REMOVE_INBOX_TAGS:
     'general-settings:document-editing:remove-inbox-tags',
   SEARCH_DB_ONLY: 'general-settings:search:db-only',
+  EMPTY_TRASH_DELAY: 'general-settings:trash:empty-trash-delay',
 }
 
 export const SETTINGS: UiSetting[] = [
@@ -224,5 +225,10 @@ export const SETTINGS: UiSetting[] = [
     key: SETTINGS_KEYS.SEARCH_DB_ONLY,
     type: 'boolean',
     default: false,
+  },
+  {
+    key: SETTINGS_KEYS.EMPTY_TRASH_DELAY,
+    type: 'number',
+    default: 30,
   },
 ]
