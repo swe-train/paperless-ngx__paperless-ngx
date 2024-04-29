@@ -1836,7 +1836,7 @@ class WorkflowSerializer(serializers.ModelSerializer):
 
 class TrashSerializer(SerializerWithPerms):
     documents = serializers.ListField(
-        required=True,
+        required=False,
         label="Documents",
         write_only=True,
         child=serializers.IntegerField(),
