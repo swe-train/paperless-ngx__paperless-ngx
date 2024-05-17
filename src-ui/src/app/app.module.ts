@@ -124,6 +124,7 @@ import { DragDropSelectComponent } from './components/common/input/drag-drop-sel
 import { CustomFieldDisplayComponent } from './components/common/custom-field-display/custom-field-display.component'
 import { GlobalSearchComponent } from './components/app-frame/global-search/global-search.component'
 import { HotkeyDialogComponent } from './components/common/hotkey-dialog/hotkey-dialog.component'
+import { TrashComponent } from './components/admin/trash/trash.component'
 import {
   airplane,
   archive,
@@ -352,7 +353,6 @@ import localeSv from '@angular/common/locales/sv'
 import localeTr from '@angular/common/locales/tr'
 import localeUk from '@angular/common/locales/uk'
 import localeZh from '@angular/common/locales/zh'
-import { TrashComponent } from './components/admin/trash/trash.component'
 
 registerLocaleData(localeAf)
 registerLocaleData(localeAr)
