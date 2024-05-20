@@ -1657,7 +1657,7 @@
           <context context-type="sourcefile">src/app/components/admin/settings/settings.component.html</context>
           <context context-type="linenumber">364</context>
         </context-group>
-        <target state="needs-translation">Documents page size</target>
+        <target state="translated">Documenten paginagrootte</target>
       </trans-unit>
       <trans-unit id="4729108320774167624" datatype="html">
         <source>Display as</source>
@@ -1665,7 +1665,7 @@
           <context context-type="sourcefile">src/app/components/admin/settings/settings.component.html</context>
           <context context-type="linenumber">367</context>
         </context-group>
-        <target state="needs-translation">Display as</target>
+        <target state="translated">Weergeven als</target>
       </trans-unit>
       <trans-unit id="1358239534403218079" datatype="html">
         <source>Table</source>
@@ -1673,7 +1673,7 @@
           <context context-type="sourcefile">src/app/components/admin/settings/settings.component.html</context>
           <context context-type="linenumber">369</context>
         </context-group>
-        <target state="needs-translation">Table</target>
+        <target state="translated">Tabel</target>
       </trans-unit>
       <trans-unit id="4236040382842528005" datatype="html">
         <source>Small Cards</source>
@@ -3265,7 +3265,7 @@
           <context context-type="sourcefile">src/app/components/common/custom-fields-dropdown/custom-fields-dropdown.component.html</context>
           <context context-type="linenumber">10</context>
         </context-group>
-        <target state="needs-translation">Search fields</target>
+        <target state="translated">Zoek velden</target>
       </trans-unit>
       <trans-unit id="3672488183382190185" datatype="html">
         <source>Create new field</source>
@@ -4197,7 +4197,7 @@
           <context context-type="sourcefile">src/app/components/common/edit-dialog/user-edit-dialog/user-edit-dialog.component.html</context>
           <context context-type="linenumber">26</context>
         </context-group>
-        <target state="needs-translation">Access logs, Django backend</target>
+        <target state="translated">Toegang logs, Django backend</target>
       </trans-unit>
       <trans-unit id="1808271538028523977" datatype="html">
         <source>Superuser</source>
@@ -4774,7 +4774,7 @@
           <context context-type="sourcefile">src/app/components/common/filterable-dropdown/filterable-dropdown.component.ts</context>
           <context context-type="linenumber">452</context>
         </context-group>
-        <target state="needs-translation">Open <x id="PH" equiv-text="this.title"/> filter</target>
+        <target state="translated">Open <x id="PH" equiv-text="this.title"/> filter</target>
       </trans-unit>
       <trans-unit id="7005745151564974365" datatype="html">
         <source>Keyboard shortcuts</source>
@@ -5735,7 +5735,7 @@
           <context context-type="sourcefile">src/app/components/dashboard/widgets/statistics-widget/statistics-widget.component.html</context>
           <context context-type="linenumber">20</context>
         </context-group>
-        <target state="needs-translation">Current ASN</target>
+        <target state="translated">Huidige ASN</target>
       </trans-unit>
       <trans-unit id="8693603235657020323" datatype="html">
         <source>Other</source>
@@ -6518,7 +6518,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">786</context>
         </context-group>
-        <target state="needs-translation">This will alter the original copy.</target>
+        <target state="translated">Hierdoor wordt de originele kopie gewijzigd.</target>
       </trans-unit>
       <trans-unit id="4069543875319587651" datatype="html">
         <source>Rotation will begin in the background. Close and re-open the document after the operation has completed to see the changes.</source>
@@ -6658,7 +6658,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.html</context>
           <context context-type="linenumber">143</context>
         </context-group>
-        <target state="needs-translation">Archived files</target>
+        <target state="translated">Gearchiveerde bestanden</target>
       </trans-unit>
       <trans-unit id="2520291319362448498" datatype="html">
         <source>Original files</source>
@@ -6666,7 +6666,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.html</context>
           <context context-type="linenumber">147</context>
         </context-group>
-        <target state="needs-translation">Original files</target>
+        <target state="translated">Originele bestanden</target>
       </trans-unit>
       <trans-unit id="8009862506882713059" datatype="html">
         <source>Use formatted filename</source>
@@ -6848,7 +6848,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">549</context>
         </context-group>
-        <target state="needs-translation">This operation will assign the custom field "<x id="PH" equiv-text="customField.name"/>" to <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</target>
+        <target state="translated">Deze bewerking zal het aangepaste veld <x id="PH" equiv-text="customField.name"/> toevoegen aan <x id="PH_1" equiv-text="this.list.selected.size"/> geselecteerde document(en).</target>
       </trans-unit>
       <trans-unit id="5789455969634598553" datatype="html">
         <source>This operation will assign the custom fields <x id="PH" equiv-text="this._localizeList(           changedCustomFields.itemsToAdd         )"/> to <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</source>
@@ -6856,7 +6856,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">554,556</context>
         </context-group>
-        <target state="needs-translation">This operation will assign the custom fields <x id="PH" equiv-text="this._localizeList(           changedCustomFields.itemsToAdd         )"/> to <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</target>
+        <target state="translated">Deze bewerking zal de aangepaste velden <x id="PH" equiv-text="this._localizeList(           changedCustomFields.itemsToAdd         )"/> toevoegen aan <x id="PH_1" equiv-text="this.list.selected.size"/> geselecteerde document(en).</target>
       </trans-unit>
       <trans-unit id="5648572354333199245" datatype="html">
         <source>This operation will remove the custom field &quot;<x id="PH" equiv-text="customField.name"/>&quot; from <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</source>
@@ -6864,7 +6864,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">562</context>
         </context-group>
-        <target state="needs-translation">This operation will remove the custom field "<x id="PH" equiv-text="customField.name"/>" from <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</target>
+        <target state="translated">Deze bewerking zal het aangepaste veld <x id="PH" equiv-text="customField.name"/> verwijderen van <x id="PH_1" equiv-text="this.list.selected.size"/> geselecteerde document(en).</target>
       </trans-unit>
       <trans-unit id="6666899594015948817" datatype="html">
         <source>This operation will remove the custom fields <x id="PH" equiv-text="this._localizeList(           changedCustomFields.itemsToRemove         )"/> from <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</source>
@@ -6872,7 +6872,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">567,569</context>
         </context-group>
-        <target state="needs-translation">This operation will remove the custom fields <x id="PH" equiv-text="this._localizeList(           changedCustomFields.itemsToRemove         )"/> from <x id="PH_1" equiv-text="this.list.selected.size"/> selected document(s).</target>
+        <target state="translated">Deze bewerking zal de aangepaste velden <x id="PH" equiv-text="this._localizeList(           changedCustomFields.itemsToRemove         )"/> verwijderen van <x id="PH_1" equiv-text="this.list.selected.size"/> geselecteerde document(en).</target>
       </trans-unit>
       <trans-unit id="8050047262594964176" datatype="html">
         <source>This operation will assign the custom fields <x id="PH" equiv-text="this._localizeList(           changedCustomFields.itemsToAdd         )"/> and remove the custom fields <x id="PH_1" equiv-text="this._localizeList(           changedCustomFields.itemsToRemove         )"/> on <x id="PH_2" equiv-text="this.list.selected.size"/> selected document(s).</source>
@@ -6880,7 +6880,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">571,575</context>
         </context-group>
-        <target state="needs-translation">This operation will assign the custom fields <x id="PH" equiv-text="this._localizeList(           changedCustomFields.itemsToAdd         )"/> and remove the custom fields <x id="PH_1" equiv-text="this._localizeList(           changedCustomFields.itemsToRemove         )"/> on <x id="PH_2" equiv-text="this.list.selected.size"/> selected document(s).</target>
+        <target state="translated">Deze bewerking zal de aangepaste velden <x id="PH" equiv-text="this._localizeList(           changedCustomFields.itemsToAdd         )"/> toewijzen en de aangepaste velden <x id="PH_1" equiv-text="this._localizeList(           changedCustomFields.itemsToRemove         )"/> verwijderen van <x id="PH_2" equiv-text="this.list.selected.size"/> geselecteerde document(en).</target>
       </trans-unit>
       <trans-unit id="749430623564850405" datatype="html" approved="yes">
         <source>Delete confirm</source>
@@ -6920,7 +6920,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">785</context>
         </context-group>
-        <target state="needs-translation">This operation will permanently rotate the original version of <x id="PH" equiv-text="this.list.selected.size"/> document(s).</target>
+        <target state="translated">Met deze bewerking wordt de originele versie van <x id="PH" equiv-text="this.list.selected.size"/> document(en) permanent geroteerd.</target>
       </trans-unit>
       <trans-unit id="7910756456450124185" datatype="html">
         <source>Merge confirm</source>
@@ -6936,7 +6936,7 @@
           <context context-type="sourcefile">src/app/components/document-list/bulk-editor/bulk-editor.component.ts</context>
           <context context-type="linenumber">806</context>
         </context-group>
-        <target state="needs-translation">This operation will merge <x id="PH" equiv-text="this.list.selected.size"/> selected documents into a new document.</target>
+        <target state="translated">Deze bewerking voegt <x id="PH" equiv-text="this.list.selected.size"/> geselecteerde documenten samen tot een nieuw document.</target>
       </trans-unit>
       <trans-unit id="7869008840945899895" datatype="html">
         <source>Merged document will be queued for consumption.</source>
